@@ -26,3 +26,27 @@ Tηλ. 26610 87753
 Τηλέφωνα: 26610 87760, 61, 63
 Fax: 26610 87766
 e-mail: cs@ionio.gr
+
+
+## Διδακτικό Προσωπικό – Μέλη ΔΕΠ
+
+## Καθηγητές
+
+![](andronikos.md){.mylua}
+
+![](avlonitis.md){.mylua}
+
+![](vlamos.md){.mylua}
+
+![](pkour.md){.mylua}
+
+![](emagos.md){.mylua}
+
+![](mmarag.md){.mylua}
+
+![](okon.md){.mylua}
+
+![](pateli.md){.mylua}
+
+
+
