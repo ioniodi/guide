@@ -32,21 +32,57 @@ e-mail: cs@ionio.gr
 
 ## Καθηγητές
 
-![](andronikos.md){.mylua}
+![](andronikos.md){.Pro}
 
-![](avlonitis.md){.mylua}
+![](avlonitis.md){.Pro}
 
-![](vlamos.md){.mylua}
+![](vlamos.md){.Pro}
 
-![](pkour.md){.mylua}
+![](pkour.md){.Pro}
 
-![](emagos.md){.mylua}
+![](emagos.md){.Pro}
 
-![](mmarag.md){.mylua}
+![](mmarag.md){.Pro}
 
-![](okon.md){.mylua}
+![](okon.md){.Pro}
 
-![](pateli.md){.mylua}
+![](pateli.md){.Pro}
+
+## Αναπληρωτές Καθηγητές
+
+![](exarchos.md){.AssoPro}
+
+![](karyotis.md){.AssoPro}
+
+![](kerman.md){.AssoPro}
+
+![](mikalef.md){.AssoPro}
+
+![](atsohou.md){.AssoPro}
+
+![](choko.md){.AssoPro}
+
+![](christos.md){.AssoPro}
+
+## Επίκουρος Καθηγητής
+
+![](vrahatis.md){.AssiPro}
+
+![](doukakis.md){.AssiPro}
+
+![](karydis.md){.AssiPro}
+
+![](dadoyan.md){.AssiPro}
+
+## Διδακτικό Προσωπικό – Μέλη ΕΔΙΠ
+
+![](katomeris.md){.Medip}
+
+![](alex.md){.Medip}
+
+![](riggas.md){.Medip}
+
+![](hristope.md){.Medip}
 
 
 
