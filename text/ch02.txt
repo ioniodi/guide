@@ -22,6 +22,8 @@
 
 ![](exarchos.md){.AssoPro}
 
+![](mikalef.md){.AssoPro}
+
 ![](karyotis.md){.AssoPro}
 
 ![](kerman.md){.AssoPro}
@@ -39,7 +41,22 @@
 
 ![](dadoyan.md){.AssiPro}
 
+![](doukakis.md){.AssiPro}
+
+![](karydis.md){.AssiPro}
+
+
 ## Διδακτικό Προσωπικό – Μέλη ΕΔΙΠ
+
+![](katomeris.md){.Medip}
+
+![](alex.md){.Medip}
+
+![](riggas.md){.Medip}
+
+![](hristope.md){.Medip}
+
+
 
 
 
