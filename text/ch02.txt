@@ -1,1 +1,45 @@
-# ΤΟ ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ
+
+## Καθηγητές
+
+![](andronikos.md){.Pro}
+
+![](avlonitis.md){.Pro}
+
+![](vlamos.md){.Pro}
+
+![](pkour.md){.Pro}
+
+![](emagos.md){.Pro}
+
+![](mmarag.md){.Pro}
+
+![](okon.md){.Pro}
+
+![](pateli.md){.Pro}
+
+
+## Αναπληρωτές Καθηγητές
+
+![](exarchos.md){.AssoPro}
+
+![](karyotis.md){.AssoPro}
+
+![](kerman.md){.AssoPro}
+
+![](atsohou.md){.AssoPro}
+
+![](choko.md){.AssoPro}
+
+![](christos.md){.AssoPro}
+
+
+## Επίκουρος Καθηγητής
+
+![](vrahatis.md){.AssiPro}
+
+![](dadoyan.md){.AssiPro}
+
+## Διδακτικό Προσωπικό – Μέλη ΕΔΙΠ
+
+
+
