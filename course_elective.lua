@@ -1,0 +1,12 @@
+function Image(paragraph)
+    local to_string = pandoc.utils.stringify
+    if paragraph.classes:find('course_elective',1) then
+        local file = io.open("all_collections/_courses/" .. paragraph.src, 'r')
+        local doc = pandoc.read(file:read('*a')).meta
+        file:close()
+        local caption = to_string(doc.excerpt)
+        local title = to_string(doc.title)
+        local md = '#### ' .. title .. ' (επιλογής)'..'\n_' .. caption .. '_  \n '
+        return pandoc.RawInline('markdown',md)
+    end
+end
